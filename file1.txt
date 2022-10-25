@@ -1,1 +1,2 @@
-Hello World from Git World
+Hello World from Git World - new version
+Ok to commit
